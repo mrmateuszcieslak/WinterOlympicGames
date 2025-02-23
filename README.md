@@ -10,6 +10,8 @@ This project focuses on the analysis of medal data from the Winter Olympic Games
     Compare the number of medals won by men and women.
     Detailed analysis of Poland's achievements – total medals, types of medals.
     Detailed analysis of Adam Małysz's achievements – total medals, types of medals.
+    Distribution of Won Medals
+    
 📊 Visualizations Used
 
     Bar chart – number of medals won by countries (Top 20).
