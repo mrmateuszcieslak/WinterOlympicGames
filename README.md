@@ -9,7 +9,7 @@ This project focuses on the analysis of medal data from the Winter Olympic Games
     Assess the popularity of sports disciplines – determining which sports had the most medals.
     Compare the number of medals won by men and women.
     Detailed analysis of Poland's achievements – total medals, types of medals.
-
+    Detailed analysis of Adam Małysz's achievements – total medals, types of medals.
 📊 Visualizations Used
 
     Bar chart – number of medals won by countries (Top 20).
@@ -17,6 +17,7 @@ This project focuses on the analysis of medal data from the Winter Olympic Games
     Bar and pie charts – analysis of the popularity of sports.
     Pie chart – distribution of medals between men and women.
     Stacked bar chart – number of medals won by Poland, divided into gold, silver, and bronze.
+    Stacked bar chart – number of medals won by Adam Małysz, divided into gold, silver, and bronze.
   
 
 🔍 Dataset Structure (winter.csv)
