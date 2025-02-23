@@ -11,6 +11,7 @@ This project focuses on the analysis of medal data from the Winter Olympic Games
     Detailed analysis of Poland's achievements – total medals, types of medals.
     Detailed analysis of Adam Małysz's achievements – total medals, types of medals.
     Distribution of Won Medals
+    Identification of countries that suddenly won many medals (outliers)
     
 📊 Visualizations Used
 
