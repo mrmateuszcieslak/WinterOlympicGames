@@ -1,4 +1,4 @@
-📌 Project Description: Analysis of Winter Olympic Medals (1896-2014)
+📌 Project Description: Analysis of Winter Olympic Medals (1924-2014)
 
 This project focuses on the analysis of medal data from the Winter Olympic Games, based on the winter.csv dataset. The goal is to explore and visualize key insights related to the achievements of athletes, countries, and medal trends over the years.
 
