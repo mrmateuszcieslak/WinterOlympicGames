@@ -21,7 +21,7 @@ This project focuses on the analysis of medal data from the Winter Olympic Games
     Pie chart – distribution of medals between men and women.
     Stacked bar chart – number of medals won by Poland, divided into gold, silver, and bronze.
     Stacked bar chart – number of medals won by Adam Małysz, divided into gold, silver, and bronze.
-  
+    Column chart - Distribution of Won Medals
 
 🔍 Dataset Structure (winter.csv)
 
