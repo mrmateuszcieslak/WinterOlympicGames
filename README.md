@@ -1,5 +1,6 @@
 📌 Project Description: Analysis of Winter Olympic Medals(1896
 This project focuses on the analysis of medal data from the Winter Olympic Games, based on the winter.csv dataset. The goal is to explore and visualize key insights related to the achievements of athletes, countries, and medal trends over the years.
+
 🎯 Project Objectives
 
     Analyze the number of medals won by countries – identifying dominant nations in the Winter Olympics.
